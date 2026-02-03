@@ -2,6 +2,9 @@
 
 Tools untuk mengolah dan meng-GC SBR di Matchapro
 
+**Ada pertanyaan? Chat PC aku aja ya.**
+
+
 ## Tugas Kita
 1. GC status
 2. Isi latlong kalau kosong
@@ -108,6 +111,8 @@ Untuk mengisi latlong kosong di SBR
 6. **EKSEKUSI** → Run chunk "EKSEKUSI"
 
 ---
+
+**Ada pertanyaan? Chat PC aku aja ya.**
 
 ### 2026 Made with ❤️, Gilang Wahyu Prasetyo
 **BPS Kabupaten Tabalong**
