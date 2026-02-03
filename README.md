@@ -4,6 +4,7 @@ Tools untuk mengolah dan meng-GC SBR di Matchapro
 
 **Ada pertanyaan? Chat PC aku aja ya.**
 
+**Cara pakai? Download aja lalu langsung run di Jupyter Notebook (basic Jupyter/Google Colab required)**
 
 ## Tugas Kita
 1. GC status
