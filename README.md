@@ -83,8 +83,6 @@ Untuk mengisi latlong kosong di SBR
    - **Ganti variabel**: `LAT_MIN`, `LAT_MAX`, `LON_MIN`, `LON_MAX`
    - Baris yang dipisah disimpan di variabel `outlier` dan otomatis disave ke lokal
 
----
-
 ## Tips
 - Pastikan latlong ada sebelum GC (re-GC tanpa latlong ribet)
 - Entri paralel untuk speed maksimal
@@ -109,3 +107,6 @@ Untuk mengisi latlong kosong di SBR
 6. **EKSEKUSI** → Run chunk "EKSEKUSI"
 
 ---
+
+### 2026 Made with ❤️, Gilang Wahyu Prasetyo
+**BPS Kabupaten Tabalong**
