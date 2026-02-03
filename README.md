@@ -94,7 +94,8 @@ Untuk mengisi latlong kosong di SBR
 
 ### Required Columns
 - `idsbr` (angka)
-- `keberadaan_usaha` (bebas latlong kosong, keberadaan_usaha full terisi)
+- `keberadaan_usaha` (full terisi)
+- `latitude` dan `longitude` (usahakan full terisi)
 
 ### Langkah Kerja
 
