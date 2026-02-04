@@ -28,6 +28,7 @@ Tools untuk mengolah dan meng-GC SBR di Matchapro
 2. Ekspor sheet hasil preprocessing
 3. Import ke **matcha helper**
 4. Entri (disarankan paralel, speed ±4000 baris/24 jam per PC, 3 PC = 10.000 baris/hari)
+5. Baris SBR ada yang terlewat belum GC? Cari dan GC dengan **matcha reverse**
 
 ---
 
